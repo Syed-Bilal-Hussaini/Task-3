@@ -1,0 +1,18 @@
+Histograms :
+The petal_length and petal_width show a clear gap in the distribution.
+on netflix,large amounts of content was released after the year 2000 as compared to before.4
+
+Count Plots:
+In iris dataset, all bars are same height meaning the data is balanced.
+In Netfix dataset, the movie content is double that of the TV show content.
+
+Box Plot:
+In iris dataset, setosa and virginica species data has outliers.
+In Netfix dataset, bar is on the right side of the box and outliers accross the box.
+
+Heatmaps:
+In iris dataset, there is a correlation score of nearly 0.96 between petal_length and petal_width.
+In Netfix dataset, shows a weak correlation.
+
+The most important features in the iris datset are petal_length and petal_width
+The most important features in the netflix dataset are duration and genre listed_in
